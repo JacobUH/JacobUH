@@ -2,8 +2,8 @@
 
 - 👋🏽 Hi, I’m Jacob Rangel and I am a junior CS undergraduate at the University of Houston.
 - 📫 How to reach me:
-  Email: jacobrangel0628@gmail.com
-  Phone: (832) 919-3105
+  - Email: jacobrangel0628@gmail.com
+  - Phone: (832) 919-3105
 
 <!--
 **JacobUH/JacobUH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
