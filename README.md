@@ -1,6 +1,6 @@
 ### Welcome to My Github! ✌🏽
 
-- 👋🏽 Hi, I’m Jacob Rangel and I am a junior CS undergraduate at the University of Houston.
+- 👋🏽 Hi, I’m Jacob Rangel and I am a senior CS undergraduate at the University of Houston.
 - 📫 How to reach me:
     - Email: jacobrangel0628@gmail.com
     - Phone: (832) 919-3105
