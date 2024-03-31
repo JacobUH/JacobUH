@@ -6,7 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <p align="center">
-      <a href="https://github.com/JacobUH"><img src="https://readme-typing-svg.demolab.com?font=Axiforma&weight=700&size=40&duration=2000&pause=2000&color=F7F7F7&background=FF3E7D00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+There%2C+I'm+Jacob!;I'm+A+Software+Engineer;I'm+A+Frontend+Developer;I'm+A+Graphic+Designer;I'm+A+Game+Developer;I'm+A+Leader" alt="Typing SVG" /></a>
+      <a href="https://github.com/JacobUH"><img src="https://readme-typing-svg.demolab.com?font=Axiforma&weight=700&size=40&duration=2000&pause=2000&color=F7F7F7&background=0000002F&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+There%2C+I'm+Jacob!;I'm+A+Software+Engineer;I'm+A+Frontend+Developer;I'm+A+Graphic+Designer;I'm+A+Game+Developer;I'm+A+Leader" alt="Typing SVG" /></a>
     </p>
   </ul>
 </div>
