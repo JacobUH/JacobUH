@@ -51,6 +51,7 @@
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JacobUH&&hide=issues&show_icons=true&theme=github_dark" alt="Jacob's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobUH&layout=compact&theme=github_dark" alt="Jacob Languages">
   </a>
 </div>
 
