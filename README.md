@@ -17,7 +17,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3>About Me</h3></summary>
+    <summary><h2>About Me 🌏</h2></summary>
   </ul>
 </div>
 
