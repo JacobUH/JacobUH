@@ -48,8 +48,9 @@
 </p>
 
 <!-- Stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobUH)](https://github.com/JacobUH/github-readme-stats)
-github_dark
+<ul align="center">
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobUH&&hide=issues&show_icons=true&theme=github_dark)](https://github.com/JacobUH/github-readme-stats)
+</ul>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
