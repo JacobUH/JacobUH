@@ -48,7 +48,11 @@
 </p>
 
 <!-- Stats -->
-<div style="margin-top: 50px;"></div>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Stats</h2></summary>
+  </ul>
+</div>
 <div align="center">
   <a href="https://github.com/JacobUH/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JacobUH&&hide=issues&show_icons=true&theme=github_dark" alt="Jacob's GitHub stats">
