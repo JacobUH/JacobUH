@@ -24,13 +24,13 @@
 <!--Intro start-->
 - 🔭 I’m currently making projects with **React, Tailwind, Bootstrap, Node.js, Next.js, Express, MongoDB, MySQL**
 
-- 🌱 I’m currently learning **to build responsive fullstack applications with a fully built hosted databases.**
+- 🌱 I’m currently learning to build **responsive fullstack applications with fully built hosted databases.**
 
-- ☁️ I've acquired keen interest in frontend design. So, I'm learning a **multitude of frameworks** at the moment.
+- 🌿 I've acquired a keen interest in frontend design. So, I'm learning a **multitude of frameworks** at the moment.
 
-- 🖥️ Check out my webiste Here! [Jacobs Personal Portfolio Website](https://jacobuh.github.io/)
+- 🖥️ Check out my website Here! [Jacobs Personal Portfolio Website](https://jacobuh.github.io/)
 
-- 📫 Feel free to reach me out **jacobrangel0628@gmail.com**
+- 📫 Feel free to reach out to me at **jacobrangel0628@gmail.com**
 <!--Intro end-->
 
 
@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,express,figma,github,html,,,js,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
