@@ -6,7 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <p align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Jacob!;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Axiforma&weight=700&size=40&duration=2000&pause=2000&color=F7F7F7&background=FF3E7D00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+There%2C+I'm+Jacob!;I'm+A+Software+Engineer;I'm+A+Frontend+Developer;I'm+A+Graphic+Designer;I'm+A+Game+Developer;I'm+A+Leader" alt="Typing SVG" /></a>
     </p>
   </ul>
 </div>
