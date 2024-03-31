@@ -21,21 +21,16 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently making projects with **React, Tailwind, Bootstrap, Node.js, Next.js, Express, MongoDB, MySQL**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to build responsive fullstack applications with a fully built hosted databases.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've acquired keen interest in frontend design. So, I'm learning a **multitude of frameworks** at the moment.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 🖥️ Check out my webiste Here! [Jacobs Personal Portfolio Website](https://jacobuh.github.io/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 📫 Feel free to reach me out **jacobrangel0628@gmail.com**
 <!--Intro end-->
 
 
