@@ -43,10 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,r,md,js,ts,html,css,sass,react,vite,npm,tailwind,bootstrap,
-      nodejs,nextjs,express,mysql,mongodb,postman,vercel,jest,aws,
-      figma,notion,unity,blender,ps,
-      bash,powershell,git,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,r,md,js,ts,html,css,sass,react,vite,npm,tailwind,bootstrap,nodejs,nextjs,express,mysql,mongodb,postman,vercel,jest,aws,figma,notion,unity,blender,ps,bash,powershell,git,github&perline=14" />
   </a>
 </p>
 
