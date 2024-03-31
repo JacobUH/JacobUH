@@ -22,15 +22,17 @@
 </div>
 
 <!--Intro start-->
-- I'm a senior undergraduate majoring in computer science and minoring in mathematics at the University of Houston!
+- 📚 I'm a senior undergraduate majoring in computer science and minoring in mathematics at the University of Houston!
 
 - 🔭 I’m currently making projects with **React, Tailwind, Bootstrap, Node.js, Next.js, Express, MongoDB, and MySQL.**
 
-- 🌱 I’m currently learning to build **responsive fullstack applications with fully built hosted databases.**
+- 🌱 I’m currently learning to build **responsive fullstack applications with fully hosted databases.**
 
 - 🌿 I've acquired a keen interest in frontend design. So, I'm learning a **multitude of frameworks** at the moment.
 
-- 🖥️ Check out my website Here! [Jacobs Personal Portfolio Website](https://jacobuh.github.io/)
+- 🖥️ Check out my website here! [Portfolio Website](https://jacobuh.github.io/)
+  
+- 🎮 Check out my indie game studio here! [Coogsoft Games](https://coogsoftgames.itch.io/)
 
 - 📫 Feel free to reach out to me at **jacobrangel0628@gmail.com**
 <!--Intro end-->
