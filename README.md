@@ -47,6 +47,9 @@
   </a>
 </p>
 
+<!-- Stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobUH)](https://github.com/JacobUH/github-readme-stats)
+github_dark
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
