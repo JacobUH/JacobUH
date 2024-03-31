@@ -17,12 +17,14 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <!-- <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary> -->
+    <summary><h3 style="display: inline-block">About Me</h3></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently making projects with **React, Tailwind, Bootstrap, Node.js, Next.js, Express, MongoDB, MySQL**
+- I'm a senior undergraduate majoring in computer science and minoring in mathematics at the University of Houston!
+
+- 🔭 I’m currently making projects with **React, Tailwind, Bootstrap, Node.js, Next.js, Express, MongoDB, and MySQL.**
 
 - 🌱 I’m currently learning to build **responsive fullstack applications with fully built hosted databases.**
 
@@ -32,7 +34,6 @@
 
 - 📫 Feel free to reach out to me at **jacobrangel0628@gmail.com**
 <!--Intro end-->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
