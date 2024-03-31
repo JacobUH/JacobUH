@@ -48,11 +48,7 @@
 </p>
 
 <!-- Stats -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h5 style="display: inline-block"></h5></summary>
-  </ul>
-</div>
+<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JacobUH&&hide=issues&show_icons=true&theme=github_dark" alt="Jacob's GitHub stats">
   </a>
