@@ -22,7 +22,7 @@
 </div>
 
 <!--Intro start-->
-- 😎 My nane is Jacob Rangel ~ I was born and raised in Houston, TX. I love to read and play videogames in my spare time.
+- 😎 My name is Jacob Rangel ~ I was born and raised in Houston, TX. I love to read and play videogames in my spare time.
 
 - 📚 I'm a senior undergraduate majoring in computer science and minoring in mathematics at the University of Houston!
 
