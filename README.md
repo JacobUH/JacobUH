@@ -22,6 +22,8 @@
 </div>
 
 <!--Intro start-->
+- 😎 My nane is Jacob Rangel ~ I was born and raised in Houston, TX. I love to read and play videogames in my spare time.
+
 - 📚 I'm a senior undergraduate majoring in computer science and minoring in mathematics at the University of Houston!
 
 - 🔭 I’m currently making projects with **React, Tailwind, Bootstrap, Node.js, Next.js, Express, MongoDB, and MySQL.**
